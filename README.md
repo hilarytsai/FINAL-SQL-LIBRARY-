@@ -1,3 +1,3 @@
 # SQL-Library-Project
-This project was a Tech Academy final project that involved creating a database of library data and querying it using inner 
-and outter join tecniques.
+This was a Tech Academy final project that prompted me to create a database of "fake" library data, and query it using inner 
+and outter join techniques.
